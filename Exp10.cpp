@@ -47,8 +47,7 @@ int main() {
    
     s.inputStudent();
 
-  
-    cout << "\nStudent Information:\n";
+  cout << "\nStudent Information:\n";
     s.display();   
     s.showDetails();  
 
